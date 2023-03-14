@@ -1,4 +1,4 @@
-import { Container, Redes, FooterInfo} from "./styles";
+import { Container, Redes, FooterInfo, Sugestao} from "./styles";
 import 'react-toastify/dist/ReactToastify.css';
 import { ToastContainer, toast } from 'react-toastify';
 import { useEffect } from "react";

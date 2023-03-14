@@ -9,13 +9,13 @@ export const Container = styled.div`
     align-items: center;
     background-color: #1b3e6c;
     color: white;
+ 
     @media (max-width: 600px) {
         height: 20vh;
         flex-direction: column;
         justify-content: center;
     }
 `;
-
 export const Redes = styled.div`
     display: flex;
     justify-content: space-between;
@@ -24,7 +24,6 @@ export const Redes = styled.div`
         margin-left: 20px;
     }
 `;
-
 
 export const FooterInfo = styled.div`
     background-color: #1b3e6c;
