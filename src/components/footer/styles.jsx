@@ -34,10 +34,3 @@ export const FooterInfo = styled.div`
         font-style: italic;
     }
 `;
-
-export const Sugestao = styled.div`
-    text-align: center;
-    a {
-        color: white;
-    }
-`;

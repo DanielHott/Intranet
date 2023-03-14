@@ -22,16 +22,7 @@ function Footer() {
     return (
     <FooterInfo>
       <Container>
-       
         <img src="/Logo-Multimarcas-Branca.png" alt="logo multimarcas branco"/>
-        <Sugestao>
-          <p>
-            Quer deixar uma sugestão para Intranet? 
-            <br></br>
-            <a href="https://forms.gle/WKiD7hjuEHwZVqHV7" target="_blank">Clique aqui</a>
-          </p>
-        </Sugestao>
-      
         <Redes>
         <a href="https://www.instagram.com/multimarcasconsorcios/" target="_blank" rel="noreferrer"><img src="http://multimarcasconsorcios.com.br/wp-content/uploads/2022/11/instagram.png" alt="insta"/></a>
         <a  href="https://www.instagram.com/multimarcasconsorcios/" target="_blank" rel="noreferrer"><img src="http://multimarcasconsorcios.com.br/wp-content/uploads/2022/11/webosite-icon.png" alt="portal"/></a>

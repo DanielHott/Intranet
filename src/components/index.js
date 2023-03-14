@@ -5,6 +5,7 @@ import Header from "./header";
 import News from "./news";
 import Ranking from "./ranking";
 import ResultSort from "./resultSort";
+import Suggestion from "./suggestion";
 
 function Main() {
   return (
@@ -14,6 +15,7 @@ function Main() {
         <Ranking />
         <Birthday />
         <ResultSort />
+        <Suggestion />
         <Footer />
     </div>
   );

@@ -13,6 +13,7 @@ function Header() {
       <a href="https://multimarcas.athenas.online/Usuarios/login" rel="noreferrer" target="_blank">PONTO</a>
       <a href="https://docs.google.com/forms/d/e/1FAIpQLSeWfI5NEIFrs_Sb3Ju5CQYP5ywAe7pDctscIr7XAhAVJf8pgA/viewform?usp=sf_link" rel="noreferrer" target="_blank">SORTEIO</a>
       <a href="#ranking">RANKING</a>
+      <a href="#suggestion">SUGESTÕES</a>
       </Navegation>
       </Container>
     </div>
